@@ -1,1 +1,114 @@
 # RobotFramework-Materials
+## A list of Robot Framework resources, libraries and tools.
+
+### Libraries
+ - [Advanced Logging Library](https://github.com/peterservice-rnd/robotframework-advancedlogging) Creating additional logs when testing in Robot Framework.
+ - [Apache Tomcat Manager](https://github.com/peterservice-rnd/robotframework-apachetomcat) Robot Framework library to manage Apache Tomcat server.
+ - [CassandraCQL Library](https://github.com/peterservice-rnd/robotframework-cassandracqllibrary) Robot Framework library to execute CQL statements in Cassandra Database.
+ - [Couchbase Library](https://github.com/peterservice-rnd/robotframework-couchbaselibrary) Robot Framework library to work with Couchbase.
+ - [Couchbase Manager Library](https://github.com/peterservice-rnd/robotframework-couchbasemanager) Robot Framework library for managing Couchbase server, based on Couchbase REST API.
+ - [Elasticsearch Library](https://github.com/peterservice-rnd/robotframework-elasticsearchlibrary) Robot Framework library for working with Elasticsearch using Elasticsearch python library.
+ - [Excel Library](https://github.com/peterservice-rnd/robotframework-excellib) Robot Framework library for working with Excel documents, based on openpyxl.
+ - [robotframework-jsonvalidator](https://github.com/peterservice-rnd/robotframework-jsonvalidator) Robot Framework library for JSON validation based on JSONSchema, JSONPath, JSONSelect.
+ - [Oracle Library](https://github.com/peterservice-rnd/robotframework-oracledb) Robot Framework library for working with Oracle database, using cx_Oracle.
+ - [PostgreSQL Library](https://github.com/peterservice-rnd/robotframework-postgresqldb) Robot Framework library for working with PostgreSQL database, using psycopg2.
+ - [RabbitMQ](https://github.com/peterservice-rnd/robotframework-rabbitmq) Robot Framework library for for working with RabbitMQ.
+ - [Requests Checker Library](https://github.com/peterservice-rnd/robotframework-requestschecker) Robot Framework library for checking HTTP response status code, based on Requests library.
+ - [Requests Logging Library](https://github.com/peterservice-rnd/robotframework-requestslogger) Robot Framework library for logging HTTP requests and responses, based on Requests library.
+ - [Windows Remote Library](https://github.com/peterservice-rnd/robotframework-winrmlibrary) Robot Framework library for Windows Remote Management, based on pywinrm.
+ - [Zookeeper Manager Library](https://github.com/peterservice-rnd/robotframework-zookeepermanager) Robot Framework library for managing Apache Zookeeper, based on kazoo python library.
+ - [robotframework-selenium2screenshots](https://github.com/collective/robotframework-selenium2screenshots) Robot Framework keyword library for capturing annotated screenshots with Selenium2Library
+ - [Robot Framework SNMP Library (Java)](http://sourceforge.net/projects/rfsnmpjava/) The library provides functionality of SNMP manager which can be accessed using Robot Framework keywords. In this model, system under test is SNMP agent.
+ - [EventLibrary](https://github.com/mkorpela/EventLibrary) Event dispatcher Library for Robot Framework
+ - [robotframework-rest-java](https://github.com/wiibaker/robotframework-rest-java) This is a Robot Framework library to test REST APIs.
+ - [AarvarkLibrary for Robot Framework](https://github.com/kontron/robotframework-aardvarklibrary) AardvarkLibrary is a Robot Framework test library for the Total Phase Aardvark I2C/SPI host adapter.
+ - [Robot-AppEyes library for Robot Framework](https://github.com/NaviNet/Robot-AppEyes) Robot-AppEyes is a Robot Framework Library to automate visual software testing verification. Robot-AppEyes uses a Python SDK called Eyes-Selenium from the tool Applitools Eyes, and can be used with the Selenium2Library.
+ - [robotframework-oimclientlibrary](https://github.com/jrkoiter/robotframework-oimclientlibrary) A Java based Robot Framework library for Oracle Identity Manager testing
+ - [robotframework-jmslibrary](http://automated-testing.info/clicks/track?url=https%3A%2F%2Fgithub.com%2Filkkatoje%2Frobotframework-jmslibrary&amp;post_id=17788&amp;topic_id=3835) Robot Framework library for testing JMS applications.<br/> Tested with Apache ActiveMQ but should work with other providers as well.
+ - [robotframework-ldaplibrary](https://github.com/jrkoiter/robotframework-ldaplibrary) A Java based Robot Framework library for accessing an LDAP directory.
+ - [robotframework-ipmilibrary](https://github.com/kontron/robotframework-ipmilibrary) This is a Robot Framework library for testing IPMI devices.
+ - [robotframework-snmplibrary](https://github.com/kontron/robotframework-snmplibrary) Library for SNMP testing
+ - [robotframework-consoledialogs](https://github.com/glenfant/robotframework-consoledialogs) Console message for robot framework
+ - [phantomrobot](https://github.com/datakurre/phantomrobot) PhantomRobot is a Robot Framework test library that uses the popular PhantomJS-browser for running acceptance tests in the background. PhantomRobot is written in and is easily expandable with CoffeeScript.
+ - [MQTT Library](https://github.com/randomsync/robotframework-mqttlibrary) A library that provides keywords for testing on MQTT brokers. <a class="external-link" href="http://mqtt.org/" rel="nofollow">MQTT</a> is a lightweight protocol for machine-to-machine communication, typically used for IoT messaging. This library uses the <a class="external-link" href="https://eclipse.org/paho/" rel="nofollow">paho</a> client library published by eclipse project.
+ - [Robot Framework JMeter Library](https://github.com/kowalpy/Robot-Framework-JMeter-Library) The Robot Framework library which can be used for starting JMeter and/or analysing and converting JMeter log files into HTML and SQLite format.
+ - [SquishLibrary](http://kb.froglogic.com/display/KB/Article+-+Keyword-driven+testing+with+Squish+and+Robot+Framework) SquishLibrary is a static keyword library which utilise Python module squishtest. It allows us to use Squish API and Application Convenience API, in our example Qt Convenience API.
+ - [robotframework-async](https://github.com/Chetic/robotframework-async) Generic Robot Framework library for asynchronous keyword execution
+ - [remotesikulilibrary](https://github.com/Hi-Fi/remotesikulilibrary) Robot framework library to utilize Sikuli's UI testing capabilities either remotely or locally. Документация: <a class="external-link" href="https://oss.sonatype.org/content/groups/public/com/github/hi-fi/remotesikulilibrary/0.0.1/remotesikulilibrary-0.0.1.html" rel="nofollow">link</a>
+ - [robotframework-extjs](https://github.com/selenium2library/robotframework-extjs) A robotframework library that adds ExtJS support to the Selenium2Library
+ - [robotframework-angularjs](https://pypi.python.org/pypi/robotframework-angularjs) An AngularJS extension to Robotframework's Selenium2Library
+ - [robotframework-seriallibrary](https://pypi.python.org/pypi/robotframework-seriallibrary/) Robot Framework test library for serial connection
+ - [robotframework-gabbilibrary](https://github.com/dkt26111/robotframework-gabbilibrary) Robotframework-gabbilibrary is a <a class="external-link" href="https://github.com/robotframework/robotframework" rel="nofollow">Robot Framework</a> test library that creates dynamic keywords out of <a class="external-link" href="https://github.com/cdent/gabbi" rel="nofollow">gabbi tests</a> specified in YAML format for consumption in test cases written for Robot Framework.<a class="external-link" href="https://dkt26111.wordpress.com/2017/09/08/using-robot-framework-and-gabbi-to-test-openstack/" rel="nofollow">Blog Post</a>
+ - [robotframework-allurereport](https://pypi.python.org/pypi/robotframework-allurereport) The Allure Adaptor for Robot Framework is a Library that can be included in the Robot scripts to generate compatible XML files which can then be used to generate the Allure HTML reports.
+ - [robotframework-jsonlibrary](https://github.com/nottyo/robotframework-jsonlibrary) Robotframework Test Library to manipulate JSON using JSONPath
+ - [RESTinstance](https://github.com/asyrjasalo/RESTinstance) Robot Framework test library for (RESTful) JSON APIs
+
+#### Libraries that have not been updated for more than 5 years
+ - [SOAPUI](https://github.com/pavlobaron/robotframework-soapuilibrary) Test library for the Robot Framework, which allows to run and check SoapUI test.
+ - [Image Comparison library](https://github.com/jfilipe/robotframework-imagecomparison) A CSS testing library for Robot Framework.
+ - [MongoDBLibrary 2](https://github.com/mahartma/robotframework-mongodblibrary) The Robot Framework MongoDB Library is a library for testing MongoDB applications with the Robotframework.<br/> The library is written in Java using the MongoDB Java Driver.
+ - [robotframework-RanorexLibrary](https://github.com/alans09/robotframework-RanorexLibrary) Remote Ranorex library to integrate with Robot Framework
+ - [OracleLibrary](https://github.com/rmerkushin/OracleLibrary) The Robot Framework Oracle Library is a library which provides common functionality for testing Oracle database contents.
+ - [Selenium2library-extensions](https://github.com/hmalphettes/robotframework-selenium2library-extensions) Дополнительные keyword'ы к библиотеке Selenium2library. Реализация паттерна call chain
+ - [XML библиотека для RobotFramework на основе lxml](https://github.com/poliarush/robotframework-lxmllibrary) <br/>
+ - [Sipphone-automation](https://github.com/nickrobinson/sipphone-automation) Robot Framework library for testing SIP Phones
+ - [RobotFramework-Plus Tool Collection](https://github.com/frehberg/robotframeworkplus) Adding functionality of embedding charts into the test-reports and extended process management functionality.
+ - [Robot Framework VirtualBox Library](http://sourceforge.net/projects/rf-virtualbox-lib-py/) This library provides support for VirtualBox
+ - [robotframework-randomlibrary](https://pypi.python.org/pypi/robotframework-randomlibrary) A collection of random utilities that can be used within tests written using RobotFramework
+ - [robotframework-pyspherelibrary](https://pypi.python.org/pypi/robotframework-pyspherelibrary) Robot Framework test library for VMWare Services
+ - [robotframework-OGCServiceLibrary](https://github.com/jonathlt/robotframework-OGCServiceLibrary) This library is intended for testing requests to OGC Services.
+ - [robotframework-ipaddrlibrary](https://github.com/tduskin/robotframework-ipaddrlibrary) A Robot Framework library for querying address and hostnames, and performing IP subnet math
+ - [robotframework-python-couchbase](https://github.com/grainnewallace/robotframework-python-couchbase) Robot framework Couchbase Library in Python
+ - [robotframework-excellibrary](http://navinet.github.io/robotframework-excellibrary/) Robotframework-excellibrary is a Robot Framework Library that provides keywords to allow opening, reading, writing and saving Excel files.
+ - [robot-ooxml](https://github.com/rjsmith/robot-ooxml) robot-ooxml is a Python library for parsing Microsoft Word .docx and Excel .xlsx format files into the automated testing tool RobotFramework.
+ - [robotframework-rsalibrary](https://github.com/jbarnes007/robotframework-rsalibrary) Библиотека для управления RSA-ключами шифрования
+ - [robotframework-screencapturelibrary](https://github.com/emanlove/robotframework-screencapturelibrary) Robot Framework library for capturing screenshots and image manipulation for the purpose of documentation.
+ - [robotframework-ansible](https://github.com/amccabe/robotframework-ansible) A Robot Framework keyword library for the popular Ansible configuration and orchestration tool.
+ - [RobotFramework-DataGeneratorLibrary](https://github.com/polusok/RobotFramework-DataGeneratorLibrary) Library to generate data by pattern
+ - [silverlight-library-robotframework](https://code.google.com/p/silverlight-library-robotframework/) This project is a robotframework keyword library developed in C# to automate Silverlight applications.
+
+### Tools
+ - [Robotsuite](https://github.com/collective/robotsuite/) Python unittest test suite for Robot Framework
+ - [sphinxcontrib-robotframework](https://pypi.python.org/pypi/sphinxcontrib-robotframework) Robot Framework plugin for Sphinx
+ - [Список плагинов на bitbucket](https://bitbucket.org/robotframework) <br/>
+ - [RobotTools](https://bitbucket.org/robotframework/robottools)This directory contains supporting tools that can be used with Robot Framework.
+ - [Robot Framework Tools](https://bitbucket.org/userzimmermann/robotframework-tools) Python Tools for Robot Framework and Test Libraries.
+ - [robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects)  This Python package adds support of the Page Object pattern to Robot Framework &amp; Robot Framework's Selenium2Library.
+ - [brackets-robotframework](https://github.com/boakley/brackets-robotframework) Extension for the brackets (<a class="external-link" href="http://brackets.io" rel="nofollow">http://brackets.io</a>) text editor
+ - [keywordtimes](https://bitbucket.org/robotframework/robottools/src/master/keywordtimes/) This is a tool that helps you to profile where the most of the time in your<br/> test cases is consumed. This is helpful for example in situations where you<br/> want to optimise the test execution times.
+ - [robotframework-tools](https://github.com/userzimmermann/robotframework-tools) Python Tools for Robot Framework and Test Libraries.
+ - [pre-commit-robotframework-tidy](https://github.com/guykisel/pre-commit-robotframework-tidy) This is a pre-commit git hook that will run Robot Framework's Tidy tool on all of your robot files
+ - [robotbackgroundlogger](https://github.com/robotframework/robotbackgroundlogger) Background logging support to test libraries
+ - [robotframework-lint](https://github.com/boakley/robotframework-lint)This is a static analysis tool for robot framework plain text files.
+ - [meteor-robotframework](https://github.com/rjsmith/meteor-robotframework) Run Robot Framework end-to-end tests for Meteor applications
+ - [Sikuli integration](https://github.com/Tset-Noitamotua/Sikuli-and-Robot-Framework-Integration) This is (or at least is aimed to become) a complete and beginner friendly tutorial which shows you step by step a general concept on how to integrate SikuliX with the Robot Framework and thus let both technologies - which are allready superb by themself - benefit from each other and even further enhance each other which creates undreamt synergies.
+ - [Robot-dashboard](https://github.com/vkruoso/robot-dashboard) Web-интерфейс для отображения результатов тестов.</p><p>Соответствующий listener: <a class="external-link" href="https://github.com/vkruoso/robot-watchdog" rel="nofollow">robot-watchdog</a>
+ - [lang-robot](https://github.com/vkosuri/lang-robot) Robotframework syntax highlighting for Notepad++
+ - [gorrs](https://github.com/daluu/gorrs) Generic Robot Framework remote library server implementation in go
+ - [qcri](https://github.com/clayjard/qcri) Import test results to HP Quality Center
+ - [PythonLibCore](https://github.com/robotframework/PythonLibCore) Tools to ease creating larger test libraries for Robot Framework using Python
+ - [robotgabbi-openstack](https://github.com/dkt26111/robotgabbi-openstack) <a class="external-link" href="https://github.com/dkt26111/robotframework-gabbilibrary" rel="nofollow">robotframework-gabbilibrary</a> provides an implementation that creates dynamic keywords out of gabbi tests. <a class="external-link" href="https://gabbi.readthedocs.io/" rel="nofollow">Gabbi</a> is a tool that allows a user to write HTTP tests using YAML format. The main advantage of writing test cases in Gabbi's YAML format is the simplicity and readability of the test case.
+ - [rfdocker](https://github.com/asyrjasalo/rfdocker) Robot Framework in a lightweight Alpine Linux based Docker container.
+ - [docker-robot-framework](https://github.com/jeurboy/docker-robot-framework) Docker image with browser drivers
+ - [docker-robot-framework](https://github.com/ppodgorsek/docker-robot-framework) Robot Framework in Docker, with Firefox and Chrome
+ - [robotframework-statusupdater](https://github.com/Hi-Fi/robotframework-statusupdater) Updates status of tests to various test management systems: TestLink, Zephyr, HP quality control
+ - [Robotcorder](https://github.com/sohwendy/Robotcorder) A chrome extension that generates test scripts
+ - [Katalon Recorder](https://www.katalon.com/resources-center/blog/katalon-automation-recorder/) This is the Selenium IDE-compatible replacement on latest Chrome and Firefox that helps record, play, debug, manage automated tests, and export to Robot Framework.
+ - [Taurus](https://gettaurus.org/) Taurus позволяет использовать в нагрузочном тестировании автотесты, написанные на Robot Framework</td></tr>
+
+#### Tools that have not been updated for more than 5 years
+ - [Rammbock+wireshark](https://github.com/jkohvakk/barbwire) Tool for helping to generate data of Rammbock messages in record-modify-playback manner based on Wireshark monitorings
+ - [robotbatch](https://github.com/jstaffans/robotbatch) Tool for splitting robot test suites into batches for parallell execution
+ - [HTMLChecker](https://github.com/robotframework/HTMLChecker)A Robot Framework test library for running checks and validations on HTML files.
+ - [RobotRecorder Vagrant](https://github.com/datakurre/robotrecorder_vagrant) Видеозапись Selenium тестов
+ - [MSSQL-DbBot](https://github.com/NaviNet/MSSQL-DbBot) Сохранение результатов тестов в БД MSSQL
+ - [unittest2robot](https://github.com/NikitaMD/unittest2robot) Generation of robot framework scripts from python unittest.TestCase classes
+ - [Pycurllibrary](https://github.com/ivalo/robotframework-pycurllibrary) PycURLLibrary is client-side URL transfer test library based on PycUrl for Robot Framework.
+ - [Node.js Remote Server](https://github.com/bulkan/rfremoteserver) Robot Framework Remote Server written in Node.js, loosely based on <a class="external-link" href="https://github.com/mkorpela/RoboZombie" rel="nofollow">https://github.com/mkorpela/RoboZombie</a> and <a class="external-link" href="https://github.com/comick/node-robotremoteserver" rel="nofollow">https://github.com/comick/node-robotremoteserver</a>
+ - [Telcotools4robotframework](https://code.google.com/p/telcotools4robotframework/) A collection of telecom related test libraries (or resource files) for use with Robot Framework.
+ - [robotframework2testlink](https://github.com/hayzer/robotframework2testlink) Reporting Robotframework results to Testlink test manager
+ - [robotframework-ant](https://code.google.com/p/robotframework-ant/) RobotAnt is a ant task for using robotframework inside ant build scripts.
+ - [Page Object in Robot Framework](https://github.com/adamgoucher/robotframework-pageobjects) Пример разработки Selenium тестов на Robot Framework с применением PageObgect
+ - [FireRobot](https://github.com/joao-carloto/FireRobot) FireRobot is a Firefox extension that allows you to create Robot Framework/Selenium tests, in a more efficient way.
+ - [robotframework-analyzer](https://code.google.com/p/robotframework-analyzer/) Lightweight and intuitive static analyzer for Robot Framework test suites.
+ - [RobPy](https://github.com/mkorpela/robpy) Проект, позволяющий писать тесты на Python, но легко использовать части Robot Framework: логгер, теги, листенеры. <a class="external-link" href="https://groups.google.com/d/msg/robotframework-users/KDsJt0r9iCY/sfrNxJghw8sJ" rel="nofollow">Обсуждение на форуме</a>
